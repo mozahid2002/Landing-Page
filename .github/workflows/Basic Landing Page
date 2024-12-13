@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exclusive Offer - Save Big Today!</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            text-align: center;
+            padding: 2rem;
+            background-color: #007bff;
+            color: white;
+        }
+        .cta-button {
+            margin-top: 1.5rem;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            font-size: 1.25rem;
+            cursor: pointer;
+        }
+        .cta-button:hover {
+            background-color: #218838;
+        }
+        .features {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin: 2rem 0;
+        }
+        .feature-box {
+            background-color: white;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 1rem;
+            margin: 1rem;
+            flex: 1 1 300px;
+            text-align: center;
+        }
+        .footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #343a40;
+            color: white;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+
+    <header class="header">
+        <h1>Exclusive Offer Just for You!</h1>
+        <p>Sign up today and unlock amazing discounts and benefits!</p>
+        <a href="https://your-affiliate-link.com" class="cta-button">Claim Your Offer Now</a>
+    </header>
+
+    <main class="container">
+        <h2 class="text-center my-4">Why Choose Us?</h2>
+        <div class="features">
+            <div class="feature-box">
+                <h3>High-Quality Products</h3>
+                <p>We partner with top brands to bring you premium quality.</p>
+            </div>
+            <div class="feature-box">
+                <h3>Big Savings</h3>
+                <p>Save up to 50% on your favorite items.</p>
+            </div>
+            <div class="feature-box">
+                <h3>Easy Returns</h3>
+                <p>Enjoy hassle-free returns and a satisfaction guarantee.</p>
+            </div>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <p>© 2024 Affiliate Marketing. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>

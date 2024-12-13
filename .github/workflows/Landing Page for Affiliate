@@ -1,4 +1,4 @@
-```html
+html
 <!doctype html>
 <html lang="en">
 
@@ -246,6 +246,3 @@ Element('script'); hs.type = 'text/javascript'; hs.async = true;
 </body>
 
 </html>
-```
-
-Let me know if there's anything else you'd like to adjust or add!
